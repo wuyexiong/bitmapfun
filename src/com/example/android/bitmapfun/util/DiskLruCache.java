@@ -44,6 +44,7 @@ import java.util.Map.Entry;
  * much more robust and efficient disk LRU cache solution can be found in the ICS source code
  * (libcore/luni/src/main/java/libcore/io/DiskLruCache.java) and is preferable to this simple
  * implementation.
+ *  这个类写得非常牛逼呀~
  */
 public class DiskLruCache {
     private static final String TAG = "DiskLruCache";
