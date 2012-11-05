@@ -24,6 +24,7 @@ import com.example.android.bitmapfun.util.ImageWorker.ImageWorkerAdapter;
 public class Images {
 
     /**
+     * 添加一小点注释~~~谢谢
      * This are PicasaWeb URLs and could potentially change. Ideally the PicasaWeb API should be
      * used to fetch the URLs.
      */
